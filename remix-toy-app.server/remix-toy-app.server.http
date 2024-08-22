@@ -1,0 +1,6 @@
+@ReactPWA.Server_HostAddress = http://localhost:5064
+
+GET {{ReactPWA.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
